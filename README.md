@@ -24,7 +24,7 @@ A new window will pop up where we can actually go in and type. Here you can dele
 If you refresh the page, your text will disappear. We're just editing HTML in our own copy, not on Twitter's. You can scroll around on Twitter and play with all sorts of different HTML elements and see what happens.
 
 See if you can find an image. It will be wrapped in HTML tags that start with `<img src=`.... You can right click on the image tag in the HTML and again select `Edit as HTML`. Between the quotes after `src=` you can replace the image with another one from a website.../
-
+ 
 ```
 <img src="./my_image.jpg" alt="Some Image">
 ```
@@ -39,7 +39,7 @@ Feel free to play with other HTML elements and watch things change on the page.
 If you want to attempt to change any of the styles of the page, take a look at the right-hand column. CSS, which stands for Cascading StyleSheets, manages all the styles of your page (think background color, font size, placement of different items on the page, etc).
 
 
-Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up", just refresh the browser and it will all go back to how it was!
+Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up", just refresh the browser and it will all go back to how it was! 
 
 
 
